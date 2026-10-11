@@ -43,6 +43,30 @@ Learning, building, and improving every day.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<!-- Replace YOUR_LEETCODE_USERNAME with your actual username -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/nxverxe/nxverxe/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+
 ---
 
 ## 📊 GitHub Stats
