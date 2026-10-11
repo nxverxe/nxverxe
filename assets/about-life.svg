@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="About Anshul">
+<defs><linearGradient id="bg"><stop stop-color="#070b16"/><stop offset="1" stop-color="#101a31"/></linearGradient><linearGradient id="edge"><stop stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient></defs>
+<rect width="1000" height="260" rx="24" fill="url(#bg)"/><rect x="1" y="1" width="998" height="258" rx="23" fill="none" stroke="url(#edge)" stroke-opacity=".7"/>
+<text x="38" y="48" fill="#f5f7ff" font-family="Arial,sans-serif" font-size="26" font-weight="700">A LITTLE ABOUT ME</text>
+<text x="38" y="87" fill="#b8c4d9" font-family="Arial,sans-serif" font-size="17">Computer Science student focused on strengthening core programming skills.</text>
+<text x="38" y="115" fill="#b8c4d9" font-family="Arial,sans-serif" font-size="17">Currently revising Java and learning Data Structures &amp; Algorithms.</text>
+<rect x="38" y="150" width="205" height="66" rx="13" fill="#111c32" stroke="#247bff" stroke-opacity=".8"/>
+<text x="56" y="177" fill="#76aaff" font-family="Arial,sans-serif" font-size="13" letter-spacing="1">CURRENT FOCUS</text><text x="56" y="200" fill="#f5f7ff" font-family="Arial,sans-serif" font-size="17" font-weight="700">Java + DSA</text>
+<rect x="258" y="150" width="205" height="66" rx="13" fill="#111c32" stroke="#ff354f" stroke-opacity=".8"/>
+<text x="276" y="177" fill="#ff7b8b" font-family="Arial,sans-serif" font-size="13" letter-spacing="1">GOAL</text><text x="276" y="200" fill="#f5f7ff" font-family="Arial,sans-serif" font-size="17" font-weight="700">Software Engineer</text>
+<circle cx="845" cy="132" r="75" fill="#0d1830" stroke="#247bff" stroke-width="2"/><circle cx="845" cy="132" r="60" fill="none" stroke="#ff354f" stroke-width="1.5" stroke-dasharray="5 8"/>
+<text x="845" y="125" text-anchor="middle" fill="#f5f7ff" font-family="Arial,sans-serif" font-size="24" font-weight="700">LEARN</text><text x="845" y="151" text-anchor="middle" fill="#76aaff" font-family="Arial,sans-serif" font-size="16">EVERY DAY</text>
+</svg>
